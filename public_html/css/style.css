@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.font-20 {
+    font-size: 20px !important;
+}
+
+.text-mydark {
+    color: #727578 !important;
+}
+
+.bg-mylight {
+    background-color: #FBFBFB80 !important;
+    backdrop-filter: blur(10px) !important; 
+}
+
+.profilepic {
+    object-fit: cover;
+    object-position: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
